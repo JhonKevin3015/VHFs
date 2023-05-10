@@ -1,2 +1,2 @@
 # VHFs
-Data-set and codes used in Aparco el. al., 2023.
+Data-set and codes used in Aparco et. al., 2023.
