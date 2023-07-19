@@ -16,5 +16,3 @@ divergence = u_x + v_y;
 curl = v_x - u_y;
 
 end
-
-% this a test hello world q fue 
