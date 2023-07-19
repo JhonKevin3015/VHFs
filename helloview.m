@@ -15,4 +15,5 @@ v_y = gradient(v, y(:,1), x(1,:));
 divergence = u_x + v_y;
 curl = v_x - u_y;
 
+this is mno importat !!c genial 
 end
