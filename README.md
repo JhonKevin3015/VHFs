@@ -1,4 +1,4 @@
-# VHFs.md
+# VHFs
 Data-set and codes used in Aparco-Lara et. al., 2023.
 
 [![DOI](https://zenodo.org/badge/638012149.svg)](https://zenodo.org/badge/latestdoi/638012149)
