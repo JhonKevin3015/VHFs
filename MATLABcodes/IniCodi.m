@@ -7,11 +7,11 @@ addpath (genpath ([dirPC '../MATLABcodes/utils/matlab_funtions']))
 clear all, close all
 %-------------------
 % All data are in DATA  
-dirPC='../DATA/';  
-dirdatam='../DATA/';
+dirPC='../DATA/grid/';  
+dirdatam='../DATA/grid/';
 %===================================================
 [LXY1,LXY2,LYZ1,LYZ2,LXZ1,LXZ2,DRF,RF,LX,LY,LZ] = GRIDplanos(dirPC,dirdatam);
-[Y3 X3 Z3]=meshgrid(LY/1000,LX/1000,LZ);% con delta=3 se ve bien
+[Y3 X3 Z3]=meshgrid(LY/1000,LX/1000,LZ);% 
 %===================================================
 nt=30;
 dirdata=['../DATA/']
