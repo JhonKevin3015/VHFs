@@ -97,13 +97,13 @@ Div=Div.*MASK1; dati=Div(:,y1:y2,1:pnz).^2;
     Divm(nn,caso)=sqrt(nanmean(dati(:)));
 Ekm(nn,caso)=nanmean(Ek(find(isnan(Ek(:,y1:y2,1:pnz))==0)));
 %=================================================
-%save ('TimeSerie.mat','PVm','FFm','VHFm','Sm','Divm','Ekm','tim')
+%save ('../DATA/TimeSerie.mat','PVm','FFm','VHFm','Sm','Divm','Ekm','tim')
 % ==========================================================================
 
 
 %   Figure time series  
 %===============
-load ('TimeSerie.mat')
+load ('../DATA/TimeSerie.mat')
 %==========
 close all
 f1=figure('units','normalized','Position',[0.3 0.1 0.6 0.5]), hold on
