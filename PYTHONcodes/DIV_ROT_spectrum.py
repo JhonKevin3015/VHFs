@@ -41,6 +41,16 @@ ccx=0.7 ; ccy=0.1 ; lltx=1/7 ; llty=1/(10*90); sizele=18;
 LS=1/2.3
 letra='abcdefghijklmn'
 #============================
+mpl.rcParams['axes.linewidth'] = 2
+mpl.rc('xtick',labelsize=18)
+mpl.rc('ytick',labelsize=18)
+mpl.rc('text',usetex=False)
+mpl.rcParams['xtick.direction'] = 'out'
+mpl.rcParams['ytick.direction'] = 'out'
+mpl.rcParams['font.family']='Times New Roman'
+#============================================================
+
+
 plt.close('all')
 fig = plt.figure(figsize=(11,6.0))
 #============================================================#============================================================
