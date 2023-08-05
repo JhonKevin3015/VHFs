@@ -21,7 +21,7 @@ f1=figure('units','normalized','Position',[0.1 0.1 0.62 0.74]);
 %===================================
 
 con2=0
-for caso=[3 4]; 
+for caso=[1 2]; 
 dirdata=['../DATA/EXP';  num2str(caso) '/'];
 nt=NT(700);
 dias=nt*dt/(60*60*24);
@@ -145,7 +145,6 @@ end
     set(get(hh,'title'),'string',[{'$\textbf{VHF} \mathrm{(W/m^2)}$'}],'FontSize',32.0,'Interpreter','latex'); 
 %=====================================================================
 
-   %figure () 
    corr=rgb('green');%[0.4 0.4 0.4]
    pos1 = [0.86 0.16 0.13 0.605];
    pl1=subplot('Position',pos1), hold on
