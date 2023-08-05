@@ -5,6 +5,11 @@ Data-set and codes used to generate figures in Aparco-Lara et. al., 2023.
 
 ### DATA
 
-### Codes file 
-The data analisys was done using Matlab (found in: `VHFs/MATLABcodes`) and Python (found in:`VHFs/PYTHONcodes`).
+In `VHFs/DATA` folder are all data needed in the scripts contained in `MATLABcodes` and `PYTHONcodes`.
+
+### MATLABcodes
+
+* `utils` folder has MITgcm tools to read the outputs of the [numerical experiments](https://github.com/JhonKevin3015/Experiments). 
+
+
 
