@@ -1,0 +1,11 @@
+# =====================================================================
+# | Parameters vertical mixing scheme to KPP_ghatUseTotalDiffus=.TRUE.,|
+# it is important to unstable fluid. 
+# =====================================================================
+ &KPP_PARM01
+ KPPmixingMaps   = .FALSE.,
+ KPPwriteState   = .TRUE.,
+ KPP_ghatUseTotalDiffus=.TRUE.,
+# minKPPhbl = 10.,
+# Ricr = 0.45,
+ &
