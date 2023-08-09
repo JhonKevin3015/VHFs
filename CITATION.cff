@@ -1,18 +1,15 @@
-cff-version: 1.2.0
-message: "If you use this software or dataset, please cite it as below."
+cff-version: 1.0.0
 authors:
-- family-names: "Aparco-Lara"
-  given-names: "Jonathan"
-  orcid: "https://orcid.org/0009-0001-2097-9055"
-- family-names: "Torres"
-  given-names: "Hector S."
-  orcid: "https://orcid.org/0000-0003-2098-8012"
-- family-names: "Gomez-Valdes"
-  given-names: "Jose"
-  orcid: "https://orcid.org/0000-0002-8528-7826"
+  - family-names: "Aparco-Lara"
+    given-names: "Jonathan"
+  - family-names: "Torres"
+    given-names: "Hector S."
+  - family-names: "Gomez-Valdes"
+    given-names: "Jose"
 title: "Impact of atmospheric cooling on the high-frequency submesoscale vertical heat flux [Software and Dataset]"
 version: 1.0.0
 doi: 10.5281/zenodo.7922979
-date-released: 2023-07-09
 url: "https://github.com/JhonKevin3015/VHFs"
+publisher: "Zenodo"
+date-released: 2023-07-09
 note: "Retrieved on July 9, 2023"
