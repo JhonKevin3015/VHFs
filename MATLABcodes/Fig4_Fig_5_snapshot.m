@@ -16,7 +16,7 @@ dirdatam='../DATA/grid/';
 %================================================
 caso=1; %Unforced case with KPP (Fig4)
 %=========================
-dirdata=['../DATA/EXP';  num2str(caso) '/'];
+dirdata=['../DATA/Experiments/EXP';  num2str(caso) '/'];
 NT=30:60:(960*60)-30;%NT=30:60:(1440*60)-30;
 %=============================================================
 close all

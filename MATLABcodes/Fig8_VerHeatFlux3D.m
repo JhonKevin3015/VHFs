@@ -22,7 +22,7 @@ f1=figure('units','normalized','Position',[0.1 0.1 0.62 0.74]);
 
 con2=0
 for caso=[1 2]; 
-dirdata=['../DATA/EXP';  num2str(caso) '/'];
+dirdata=['../DATA/Experiments/EXP';  num2str(caso) '/'];
 nt=NT(700);
 dias=nt*dt/(60*60*24);
 CAMPO='W';   
