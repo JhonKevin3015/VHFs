@@ -14,7 +14,7 @@ Dataset and Codes for Generating Figures in Aparco-Lara et al., 2023
 ## MATLABcodes
 
 * In `VHFs/DATA` folder are all data needed in the scripts contained in `MATLABcodes` and `PYTHONcodes`. The data is in both MATLAB and Python formats.
-  - The `DATA/Experiments/EXP*` folders contain the outputs of experiments for the 15th day of simulation for both unforced and forced cases. And also contain the MITgcm numerical experiment configurations [more detail below](EXPE).
+  - The `DATA/Experiments/EXP*` folders contain the outputs of experiments for the 15th day of simulation for both unforced and forced cases. And also contain the MITgcm numerical experiment configurations [more detail below](#EXPE).
   - The `DATA/grid` folder contains the grid dimensions used in the simulation.
 
 * This folder contains MATLAB codes to generate Figures 1, 2, 3, 4, 5, and 8.
