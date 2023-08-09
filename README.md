@@ -68,7 +68,7 @@ Unforced case with KPP inactive
 
 * Each experiment folder contains outputs for the 15th day of simulation. This data was used to generate figures.
   
-### IC: Matlab-code to Generate Initial Conditions and Qnet-Forcing Binary Files.
+#### IC: Matlab-code to Generate Initial Conditions and Qnet-Forcing Binary Files.
 
 To set up the initial conditions and atmospheric forcing for the MITgcm numerical experiments, Matlab codes are utilized. Follow these steps to properly configure the necessary files:
 
