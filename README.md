@@ -1,6 +1,5 @@
-# Impact of atmospheric cooling on the high-frequency submesoscale vertical heat flux (VHFs)
-
-[Software and Dataset]
+# Impact of atmospheric cooling on the high-frequency submesoscale vertical heat flux [Software and Dataset]
+# VHFs
 
 [![DOI](https://zenodo.org/badge/638012149.svg)](https://zenodo.org/badge/latestdoi/638012149)
 
