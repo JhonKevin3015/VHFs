@@ -1,5 +1,10 @@
-# VHFs [![DOI](https://zenodo.org/badge/638012149.svg)](https://zenodo.org/badge/latestdoi/638012149)
-Dataset and Codes for Generating Figures in Aparco-Lara et al., 2023
+# Impact of atmospheric cooling on the high-frequency submesoscale vertical heat flux (VHFs)
+
+[Software and Dataset]
+
+[![DOI](https://zenodo.org/badge/638012149.svg)](https://zenodo.org/badge/latestdoi/638012149)
+
+Codes and dataset for Generating Figures in Aparco-Lara et al., 2023
 
 ![](https://img.shields.io/github/stars/JhonKevin3015/VHFs.svg) ![](https://img.shields.io/github/forks/JhonKevin3015/VHFs.svg) ![](https://img.shields.io/github/tag/JhonKevin3015/VHFs.svg) ![](https://img.shields.io/github/release/JhonKevin3015/VHFs.svg) ![](https://img.shields.io/github/issues/JhonKevin3015/VHFs.svg) 
 
@@ -61,8 +66,7 @@ Unforced case with KPP inactive
 
 * Additionally, in the `EXP2` and `EXP4` folders, you will find an additional file named `QnetIDE.forcing`, which contains the atmospheric forcing data.
 
-* Each experiment folder contains outputs for the 15th day of simulation. This data was used to [generate figures](https://github.com/JhonKevin3015/VHFs) in Aparco-Lara et al., 2023.
-
+* Each experiment folder contains outputs for the 15th day of simulation. This data was used to generate figures.
   
 ### IC: Matlab-code to Generate Initial Conditions and Qnet-Forcing Binary Files.
 
